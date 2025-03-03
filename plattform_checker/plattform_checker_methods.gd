@@ -27,3 +27,14 @@ func check_windows():
 	else:
 		return false
 		
+func check_mac():
+	if OS.get_name() == "macOS":
+		return true
+	else:
+		return false
+
+func check_linux():
+	if OS.get_name() == "X11":
+		return true
+	else:
+		return false
