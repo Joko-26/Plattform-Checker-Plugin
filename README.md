@@ -30,7 +30,7 @@ returns true if the game is played on an Windows device.
     check_mac(none)
 <sub>return bool</sub>
 
-returns true if the game is played on an Mac device.
+returns true if the game is played on an MacOS device.
 
 ---
 
