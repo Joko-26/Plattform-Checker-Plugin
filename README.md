@@ -16,7 +16,7 @@ returns true if the game is played on an mobile device even if played in the bro
 
 returns true if the game is played in a browser.
 
-    check_windows() | <sub>return bool</sub>
+check_windows() | <sub>return bool</sub> | returns true if the game is played on an Windows device.
 <sub>return bool</sub>
 
 returns true if the game is played on an Windows device.
