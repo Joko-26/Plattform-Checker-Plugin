@@ -10,6 +10,7 @@ The plugin adds it self as global.
 <sub>return bool</sub>
 
 returns true if the game is played on an mobile device even if played in the browser.
+_
 
     check_web()
 <sub>return bool</sub>
